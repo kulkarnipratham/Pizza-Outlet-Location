@@ -1,3 +1,3 @@
 # Pizza-store-locator
 
-Demo : https://kulkarnipratham.github.io/Pizza-Outlet-Location/#
+Demo : https://kulkarnipratham.github.io/Pizza-Outlet-Location/
